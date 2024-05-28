@@ -14,6 +14,7 @@
         <module>factory-method</module>
         <module>abstract-factory</module>
         <module>template-method</module>
+        <module>prototype</module>
     </modules>
 
     <properties>
