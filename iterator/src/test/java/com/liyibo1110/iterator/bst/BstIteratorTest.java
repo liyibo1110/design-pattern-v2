@@ -12,7 +12,7 @@ import java.util.NoSuchElementException;
  * @date 2024-05-31 16:50
  */
 @TestInstance(TestInstance.Lifecycle.PER_CLASS)
-public class BstIteratorTest {
+class BstIteratorTest {
 
     private TreeNode<Integer> nonEmptyRoot;
     private TreeNode<Integer> emptyRoot;

@@ -10,7 +10,7 @@ import java.util.List;
  * @author liyibo
  * @date 2024-05-31 16:50
  */
-public class TreasureChestTest {
+class TreasureChestTest {
 
     public static List<Object[]> dataProvider() {
         return List.of(
