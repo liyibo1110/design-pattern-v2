@@ -17,6 +17,7 @@
         <module>prototype</module>
         <module>iterator</module>
         <module>decorator</module>
+        <module>poison-pill</module>
     </modules>
 
     <properties>
